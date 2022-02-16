@@ -155,6 +155,8 @@ Generating a line chart directly from the cells containing the functions (descri
 
 I was able to resolve this problem by simply copying the table and pasting it as *Values and Number Formatting*. I am still not sure why this happened, as I have never experienced this problem before.
 
+This was more permanently resolved by adjusting the equation to filter values except for ‘plays’. Upon doing this and re-inserting the graph, the correct presentation is displayed.
+
 
 
 ## Results
